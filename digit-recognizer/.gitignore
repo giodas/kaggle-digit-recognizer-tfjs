@@ -48,7 +48,8 @@ Thumbs.db
 # TensorFlow.js generated model artifacts (uncomment if you don't want to commit trained models)
 models/
 saved_models/
-**logdir/
+logdir/
+results/
 **/model.json
 **/weights.bin
 

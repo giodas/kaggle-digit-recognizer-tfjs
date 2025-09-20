@@ -9,4 +9,4 @@ writePredictions = (filePath, headers, records) => {
     return csvWriter.writeRecords(records);
 }
 
-export default writePredictions;
+module.exports = writePredictions;
