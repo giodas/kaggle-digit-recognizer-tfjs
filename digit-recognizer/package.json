@@ -1,0 +1,22 @@
+{
+  "name": "digit-recognizer",
+  "version": "1.0.0",
+  "description": "A TensorFlow.js application for recognizing handwritten digits.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.3.0",
+    "csv-writer": "^1.5.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "tensorflow",
+    "javascript",
+    "machine-learning"
+  ],
+  "author": "Giovanni D'Ascola",
+  "license": ""
+}
