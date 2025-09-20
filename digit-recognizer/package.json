@@ -4,7 +4,8 @@
   "description": "A TensorFlow.js application for recognizing handwritten digits.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "train": "node src/train.js",
+    "predict": "node src/prediction.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

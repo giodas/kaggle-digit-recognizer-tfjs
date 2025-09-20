@@ -15,9 +15,14 @@ This project is a simple TensorFlow.js application that demonstrates how to load
    npm install
    ```
 
-3. **Run the application:**
+3. **Train the model:**
    ```
-   npm start
+   npm train
+   ```
+
+3. **Run inference on the test set:**
+   ```
+   npm predict
    ```
 
 ## Usage
